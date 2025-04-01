@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any beginner level project which focus on html,css and JS and would love to coffee chat with people in tech.
 - 📫 You can mail me at surajsajwan328@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to sleep. On no smoking journey from 5th of november 2024.
+- ⚡ Fun fact: There are 10 kinds of people in this world —those who understand binary and those who don’t.
 
 <!---
 sajwan05/sajwan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
